@@ -1,5 +1,5 @@
 # CloudreveV4_Plus
-基于cloudreveV4社区版进行魔改  
+基于CloudreveV4社区版进行魔改  
 源码太大坨了懒得上传，直接传成品好了。  
 若是担心安全问题大可不必使用。
 
